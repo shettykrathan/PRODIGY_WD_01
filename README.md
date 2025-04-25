@@ -1,8 +1,3 @@
-Here’s a fun and engaging README.md for your GitHub repository with emojis:
-
-
----
-
 Smooth Nav Experience 🚀🧭
 
 A sleek and modern webpage with a smooth-scrolling navigation bar that adapts beautifully when you scroll! Perfect for one-page websites and portfolios.
@@ -36,33 +31,11 @@ CSS3
 Vanilla JavaScript
 
 
-How to Use ⏬
-
-1. Clone this repo
-
-git clone https://github.com/your-username/your-repo-name.git
-
-
-2. Open task1.html in your browser
-
-
-3. Scroll to see the magic happen!
-
-
-
 Folder Structure 📁
 
 /your-repo
-├── task1.html
-
-Author 🙋
-
-Made with passion by [Your Name]
-Feel free to connect or reach out!
+├── task1.html 
 
 License 📄
 
-This project is licensed under the MIT License.
-
----
-
+This project is licensed under the MIT License
